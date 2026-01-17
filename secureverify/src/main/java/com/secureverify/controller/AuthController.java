@@ -35,3 +35,4 @@ public class AuthController {
         return authService.getUserById(id);
     }
 }
+
